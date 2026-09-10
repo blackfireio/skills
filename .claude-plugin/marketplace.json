@@ -1,0 +1,20 @@
+{
+  "name": "blackfire",
+  "description": "Agent skills for Blackfire",
+  "owner": {
+    "name": "Blackfire",
+    "url": "https://blackfire.io"
+  },
+  "plugins": [
+    {
+      "name": "blackfire",
+      "description": "Profile applications and read Blackfire profiles with the blackfire CLI",
+      "author": {
+        "name": "Blackfire",
+        "url": "https://blackfire.io"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

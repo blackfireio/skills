@@ -1,0 +1,9 @@
+{
+  "name": "blackfire",
+  "version": "1.0.0",
+  "description": "Profile applications and read Blackfire profiles with the blackfire CLI",
+  "author": {
+    "name": "Blackfire",
+    "url": "https://blackfire.io"
+  }
+}
